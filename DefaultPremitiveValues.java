@@ -10,7 +10,7 @@ public class DefaultPremitiveValues {
 	static short shortDefault;
 	static char charDefault;
 
-public static void main(String[] args) {
+	public static void main(String[] args) {
 		System.out.println("Default values for premitive datatypes are following");
 		System.out.println("Boolean = " + booleanDefault);
 		System.out.println("Double = " + doubleDefault);

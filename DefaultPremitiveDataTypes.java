@@ -11,7 +11,7 @@ public class DefaultPremitiveDataTypes {
 	   static char 	harDefault;
 	   
 public static void main(String[] args) {
-	      System.out.println("Default values for premitive datatypes are following");
+	System.out.println("Default values for premitive datatypes are following");
 	      System.out.println("Boolean = " + ooleanDefault);
 	      System.out.println("Double = " + oubleDefault);
 	      System.out.println("Float = " + loatDefault);
